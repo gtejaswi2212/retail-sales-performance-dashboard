@@ -111,7 +111,4 @@ All SQL queries and database dumps are included in the `/sql` folder for transpa
 
 ⭐ **If you found this project insightful, give it a star on GitHub!**
 
-│   └── dashboard_overview.png
-└── README.md
-
 
