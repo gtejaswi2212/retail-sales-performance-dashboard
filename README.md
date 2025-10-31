@@ -111,20 +111,7 @@ All SQL queries and database dumps are included in the `/sql` folder for transpa
 
 ⭐ **If you found this project insightful, give it a star on GitHub!**
 
-## 📁 Folder Structure  
-
-├── data/
-│ └── Retail_Sales_Clean.csv # Cleaned dataset from Kaggle
-│
-├── sql/  
-│ └── retail_dashboard_dump.sql # MySQL database export and # SQL scripts for aggregation & metrics
-│
-├── tableau/
-│ └── Retail_Sales_Performance_Dashboard.twbx # Packaged Tableau workbook
-│
-├── images/
-│ ├── dashboard_overview.png # Full dashboard preview
-│
-└── README.md # Project documentation (this file)
+│   └── dashboard_overview.png
+└── README.md
 
 
